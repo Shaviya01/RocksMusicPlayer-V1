@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Rocks VC Userbot ⭐️</b></h1>
+o<h1 align= center><b>⭐️ Rocks VC Userbot ⭐️</b></h1>
 <h3 align = center> Telegram Userbot To Play Audio And Video Song On VC Chat </h3>
 
 <p align="center">
@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/RocksMusicPlayer-V1)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shaviya01/RocksMusicPlayer-V1)
 
 ## ☁️ <a name="self_host"></a>Self Host
 
